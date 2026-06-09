@@ -1,5 +1,5 @@
 ## Addition of Two Nums
-```
+```c
 #include <stdio.h>
 
 int main()
